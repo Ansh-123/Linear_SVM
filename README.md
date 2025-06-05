@@ -9,6 +9,5 @@ data_raw = [[-1, -1, -1], [1, 0, 1], [1, 2, 1], [2, 1, 1], [-1, -2, -1], [-2, -1
 Pretraining, the bboundary hyperplane is set to:
 ![pre_training](https://github.com/user-attachments/assets/45775b2d-0f3c-40b5-8d86-affd332b2027)
 
-
 And postraining, the SVM finds the ideal soultion as seen in the image below:
 ![Post_training](https://github.com/user-attachments/assets/6db37ef5-1ef3-470c-9b01-8ea338b8e95a)
