@@ -6,7 +6,7 @@ A linear support vector machine written from scratch in python (save for basic m
 Main.py provides a sample use case the SVM class, utilizing the following data:
 data_raw = [[-1, -1, -1], [1, 0, 1], [1, 2, 1], [2, 1, 1], [-1, -2, -1], [-2, -1, -1]].
 
-Pretraining, the bboundary hyperplane is set to:
+Pretraining, the boundary hyperplane is set to:
 ![pre_training](https://github.com/user-attachments/assets/45775b2d-0f3c-40b5-8d86-affd332b2027)
 
 And postraining, the SVM finds the ideal soultion as seen in the image below:
